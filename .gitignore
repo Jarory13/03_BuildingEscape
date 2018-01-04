@@ -7,11 +7,12 @@
 */DerivedDataCache
 */Intermediate
 */Saved
+
 BuildingEscape/Content/StarterContent/
 
 
 ##########################
-# Unreal Generated Files #
+#  VS Generated Files    #
 ##########################
-
+*/.vs
 *.VC.db
