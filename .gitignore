@@ -15,4 +15,7 @@ BuildingEscape/Content/StarterContent/
 #  VS Generated Files    #
 ##########################
 */.vs
+*.suo
+*.ipch
+*.pch
 *.VC.db
